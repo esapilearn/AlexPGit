@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button Content="Press me"/>
+        <Button Content="Press me" Click="Button_Click" Background="#FF19d410"/>
 
     </Grid>
 </Window>
